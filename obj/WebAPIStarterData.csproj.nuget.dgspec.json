@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj": {}
+    "C:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj": {}
   },
   "projects": {
-    "c:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj": {
+    "C:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj",
+        "projectUniqueName": "C:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj",
         "projectName": "WebAPIStarterData",
-        "projectPath": "c:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj",
+        "projectPath": "C:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\WebAPIStarterData.csproj",
         "packagesPath": "C:\\Users\\edith.mendoza\\.nuget\\packages\\",
-        "outputPath": "c:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\obj\\",
+        "outputPath": "C:\\Cursos\\Cloud Native\\dotNet Core\\WebAPIStarterData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

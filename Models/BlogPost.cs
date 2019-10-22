@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace WebAPIStarterData.Models
@@ -11,5 +12,6 @@ namespace WebAPIStarterData.Models
         public string Author { get; set; }
         [Required]
         public string Content { get; set; }
+        public IList<Comment> Comments { get; set; }
     }
 }
